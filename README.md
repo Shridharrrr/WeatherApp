@@ -1,6 +1,3 @@
-Here’s your cleaned-up and more concise **Weather Dashboard - Project Documentation**, with **Table of Contents**, **Deployment**, **Troubleshooting**, and **Contributing** sections removed:
-
----
 
 # Weather Dashboard - Project Documentation
 
@@ -71,10 +68,10 @@ npm run preview
 
 ## 🔐 Environment Variables
 
-| Variable                     | Description                            | Required |
-| ---------------------------- | -------------------------------------- | -------- |
-| `VITE_OPENWEATHER_API_KEY`   | OpenWeather API Key                    | ✅        |
-| `VITE_BASE_URL` *(optional)* | API base URL (default used if not set) | ❌        |
+| Variable                     | Description                            |
+| ---------------------------- | -------------------------------------- | 
+| `VITE_OPENWEATHER_API_KEY`   | OpenWeather API Key                    | 
+| `VITE_BASE_URL` *(optional)* | API base URL (default used if not set) |
 
 ---
 
@@ -108,7 +105,3 @@ npm run preview
 | `units` | `metric` or `imperial` | `metric`   |
 
 Official Docs: [OpenWeatherMap - Current Weather](https://openweathermap.org/current)
-
----
-
-Let me know if you'd like a downloadable `README.md` version or if you want to include screenshots, credits, or license info.
