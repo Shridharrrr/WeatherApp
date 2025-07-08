@@ -28,7 +28,7 @@ A responsive weather app built with **Vite**, **JavaScript**, and **Tailwind CSS
 ### Installation
 
 ```bash
-git clone https://github.com/yourusername/weather-dashboard.git
+git clone https://github.com/Shridharrrr/WeatherApp.git
 cd weather-dashboard
 npm install
 ```
@@ -88,20 +88,5 @@ npm run preview
 ├── tailwind.config.js
 └── vite.config.js
 ```
-
----
-
-## 🌐 API
-
-**Endpoint:**
-`GET https://api.openweathermap.org/data/2.5/weather`
-
-**Parameters:**
-
-| Name    | Description            | Example    |
-| ------- | ---------------------- | ---------- |
-| `q`     | City name              | `London`   |
-| `appid` | Your API key           | `your_key` |
-| `units` | `metric` or `imperial` | `metric`   |
 
 Official Docs: [OpenWeatherMap - Current Weather](https://openweathermap.org/current)
